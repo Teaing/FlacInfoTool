@@ -4,6 +4,7 @@
 使用版本:  
 **Python 2.7.x**  
 **OSX**
+需要 requests 以及 taglib  
 
     usage: FlacInfoTool.py [-h] [-d DIR] [-f FILE] [-force]
     
