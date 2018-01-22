@@ -3,7 +3,7 @@
 所以有了这个脚本,从QQ音乐搜索歌曲名称、音乐家，再将信息插入到flac文件中   
 使用版本:  
 **Python 2.7.x**  
-**OSX**
+**OSX**  
 需要 requests 以及 taglib  
 
     usage: FlacInfoTool.py [-h] [-d DIR] [-f FILE] [-force]
